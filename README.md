@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ItsMeNikPro
-- 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, my name is Nikita. I'm professional web-designer, now - future frontend-developer.
+👀 I'm  currently learning JavaScript.
 
-<!---
-ItsMeNikPro/ItsMeNikPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I know:
+- HTML;
+- CSS;
+- Flexbox
